@@ -12,10 +12,10 @@ I'll be using JavaScript. My aim is to solve the day's challenge and get the cor
 
 |Puzzle      | Solution       | Result    | Comments  |
 |------------|----------------|-----------|-----------|
-| [Day 6: Wait For It](https://adventofcode.com/2023/day/6) | [Code]() | ⭐️⭐️ | Today's challenge felt like light relief after the last few and allowed me to catch up. |
-| [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [Code]() | ⭐️⭐️ | Part 2 was the first introduction to computational problems when dealing with data at scale. I learnt that arrays are no good when dealing with a large amount of data and so instead of saving to an array I should compute as I go. The code takes about 10 mins to run (on my 10 year old mac) so I think there's still improvements that could be made. |
-| [Day 4: Scratchcards](https://adventofcode.com/2023/day/4) | [Code]() | ⭐️⭐️ | Wasted a lot of time on part 2 because I hadn't understood the requirement. Lesson was to make sure I understand what I'm being asked to do before I start. |
-| [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) | [Code]() | ⭐️⭐️ | My solutions to today's challenges are particularly ugly  - but they did the job |
-| [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | [Code]() | ⭐️⭐️ | Learnt to manipulate the data from a .txt file to a more usable format |
-| [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | [Code]() | ⭐️⭐️ | The first and only time I manually converted the dataset as I didn't understand what was coming up 😅 |
+| [Day 6: Wait For It](https://adventofcode.com/2023/day/6) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-6-wait-for-it) | ⭐️⭐️ | Today's challenge felt like light relief after the last few and allowed me to catch up. |
+| [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-5-fertilizer) | ⭐️⭐️ | Part 2 was the first introduction to computational problems when dealing with data at scale. I learnt that arrays are no good when dealing with a large amount of data and so instead of saving to an array I should compute as I go. The code takes about 10 mins to run (on my 10 year old mac) so I think there's still improvements that could be made. |
+| [Day 4: Scratchcards](https://adventofcode.com/2023/day/4) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-4-scratchcards) | ⭐️⭐️ | Wasted a lot of time on part 2 because I hadn't understood the requirement. Lesson was to make sure I understand what I'm being asked to do before I start. |
+| [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-3-gear-ratios) | ⭐️⭐️ | My solutions to today's challenges are particularly ugly  - but they did the job |
+| [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-2-cube-conundrum) | ⭐️⭐️ | Learnt to manipulate the data from a .txt file to a more usable format |
+| [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-1-trebuchet) | ⭐️⭐️ | The first and only time I manually converted the dataset as I didn't understand what was coming up 😅 |
 
