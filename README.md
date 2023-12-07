@@ -12,6 +12,7 @@ I'll be using JavaScript. My aim is to solve the day's challenge and get the cor
 
 |Puzzle      | Solution       | Result    | Comments  |
 |------------|----------------|-----------|-----------|
+| [Day 7: Camel Cards](https://adventofcode.com/2023/day/7) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-7-camel-cards) | ⭐️⭐️ | Enjoyed today's challenges. Happy with my chosen solution to map out the hands by count and it set me up well for part 2 |
 | [Day 6: Wait For It](https://adventofcode.com/2023/day/6) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-6-wait-for-it) | ⭐️⭐️ | Today's challenge felt like light relief after the last few and allowed me to catch up. |
 | [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-5-fertilizer) | ⭐️⭐️ | Part 2 was the first introduction to computational problems when dealing with data at scale. I learnt that arrays are no good when dealing with a large amount of data and so instead of saving to an array I should compute as I go. The code takes about 10 mins to run (on my 10 year old mac) so I think there's still improvements that could be made. |
 | [Day 4: Scratchcards](https://adventofcode.com/2023/day/4) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-4-scratchcards) | ⭐️⭐️ | Wasted a lot of time on part 2 because I hadn't understood the requirement. Lesson was to make sure I understand what I'm being asked to do before I start. |
