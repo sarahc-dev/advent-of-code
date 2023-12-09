@@ -12,6 +12,7 @@ I'll be using JavaScript. My aim is to solve the day's challenge and get the cor
 
 |Puzzle      | Solution       | Result    | Comments  |
 |------------|----------------|-----------|-----------|
+| [Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-9-mirage-maintenance) | ⭐️⭐️ | Got to practice recursion 😀 |
 | [Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-8-haunted-wasteland) | ⭐️⭐️ | Part 2 totally stumped me and had to seek help. I hadn't fully understood there was only one route from A-Z for each node which tripped up my initial attempts. Learnt what LCM is! |
 | [Day 7: Camel Cards](https://adventofcode.com/2023/day/7) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-7-camel-cards) | ⭐️⭐️ | Enjoyed today's challenges. Happy with my chosen solution to map out the hands by count and it set me up well for part 2 |
 | [Day 6: Wait For It](https://adventofcode.com/2023/day/6) | [Code](https://github.com/sarahc-dev/advent-of-code/tree/main/day-6-wait-for-it) | ⭐️⭐️ | Today's challenge felt like light relief after the last few and allowed me to catch up. |
